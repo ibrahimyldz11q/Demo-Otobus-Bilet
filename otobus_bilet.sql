@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 4.9.0.1
--- https://www.phpmyadmin.net/
---
--- Anamakine: 127.0.0.1
--- Üretim Zamanı: 14 Haz 2020, 13:50:46
--- Sunucu sürümü: 10.4.6-MariaDB
--- PHP Sürümü: 7.3.9
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
